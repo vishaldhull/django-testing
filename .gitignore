@@ -1,0 +1,8 @@
+#created for django-testing-project
+*.pyc
+*~
+/.vscode
+__pycache__
+venv
+.DS_Store
+.env
